@@ -9,8 +9,7 @@
 ### Languages and Tools:
 
 <div style="display: inline-block">
-<img style="height: 25px; margin: 0 10px 0 0" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" 
-alt="WebStorm"/>
+<img style="height: 25px; margin: 10px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" alt="WebStorm"/>
 <img style="height: 25px" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS"/>
 <img style="height: 25px" title="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/>
 <img style="height: 25px" title="Angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/>
