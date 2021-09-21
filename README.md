@@ -22,6 +22,8 @@
 
 <br />
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=Olezhka-web&show_icons=true&theme=dark)" 
-alt="myGitStats" />
+[comment]: <> (<p> <img src="https://github-readme-stats.vercel.app/api?username=Olezhka-web&show_icons=true&theme=dark&#41;" )
 
+[comment]: <> (alt="myGitStats" />)
+
+![Olezhka-web GitHub stats](https://github-readme-stats.vercel.app/api?username=Olezhka-web&show_icons=true&theme=tokyonight)
