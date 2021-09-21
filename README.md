@@ -1,6 +1,6 @@
 ## Hi there, I'm Oleh, Full-Stack Web Developer
 
-<div style="background: white; display: inline-block; height: 22px">
+<div>
 <a href="https://www.linkedin.com/in/oleh-protsyshyn/">
     <img style="width: 22px" alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
