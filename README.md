@@ -6,7 +6,7 @@
 </a>
 </div>
 
-## Languages and Tools:
+### Languages and Tools:
 
 <div style="display: inline-block">
 <img style="height: 25px; margin-right: 5px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" alt="WebStorm"/>
